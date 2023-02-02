@@ -3,7 +3,21 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "f9bc5a286abeecad1504bec093583ca2",
+"assets/assets/images/alexa.png": "7e76b91cc2dcc75faa9d9f3a6641a7d1",
+"assets/assets/images/beats.png": "684cab29e525cda2afb7037f1f0bcacf",
+"assets/assets/images/drone.png": "9ad2686f242f6a3e6b39563eb716d6cc",
+"assets/assets/images/iphone.png": "da99c5719d402c6c03b1781a15be13cc",
+"assets/assets/images/mac.png": "98e6b943220cf5297d23c1557d6565b5",
+"assets/assets/images/ps5.png": "68b4bd933c17ca3ea3c5bf87e0ad7ed0",
+"assets/assets/images/sellar.png": "1553b861ac29ad242807c63260d37a70",
+"assets/assets/images/switch.png": "33159e8ec9803ce7903ed75445cdd4b1",
+"assets/assets/images/switch_0.jpg": "a3bb6b0a36b8745b9094fffa6e16a82c",
+"assets/assets/images/switch_1.jpg": "080fafea2f7cb34f173f656f7956d152",
+"assets/assets/images/switch_2.jpg": "acfeca82a704a23686bfc04bb9e28984",
+"assets/assets/images/switch_box.jpg": "437917cd2773879334aa0aa18f207c8f",
+"assets/assets/images/switch_logo.png": "d47a01d7907525e11d63f2349d9c3429",
+"assets/assets/images/watch.png": "723b7adebf1f57beec296367978dd40a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/NOTICES": "c0cf4b65b708c96128aa7e74b38255a2",
@@ -18,8 +32,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4ec795280303c219e05841bdaa0f0fd3",
-"/": "4ec795280303c219e05841bdaa0f0fd3",
+"index.html": "afb4e8e9a46e4ce93676167296902203",
+"/": "afb4e8e9a46e4ce93676167296902203",
 "main.dart.js": "d53d57ea76c9e80761e4a8e23a2ea42d",
 "manifest.json": "57670569ca9fc14d82b9e76abf65bd87",
 "version.json": "8b2eabba2d2de316267c0781e123214d"
