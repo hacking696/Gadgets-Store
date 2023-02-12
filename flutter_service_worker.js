@@ -19,7 +19,7 @@ const RESOURCES = {
 "assets/assets/images/switch_box.jpg": "437917cd2773879334aa0aa18f207c8f",
 "assets/assets/images/switch_logo.png": "d47a01d7907525e11d63f2349d9c3429",
 "assets/assets/images/watch.png": "723b7adebf1f57beec296367978dd40a",
-"assets/assets/json/productItem.json": "ba051df85e19873c535bc52b36743838",
+"assets/assets/json/productItem.json": "ed09b64e54fc71b1759fba63bd567c72",
 "assets/assets/svg/angle-left-bold.svg": "37f22a68072f6aacff870b3f5c6c63eb",
 "assets/assets/svg/angle-right-bold.svg": "3aa8a652c5ac534b198a72a5d9a909b3",
 "assets/assets/svg/apple.svg": "6f26f7f2a641a7ce0b0b979bbd660d99",
@@ -50,9 +50,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9497bbab0a1c38ff52f35e9b0a2f9947",
-"/": "9497bbab0a1c38ff52f35e9b0a2f9947",
-"main.dart.js": "a86156a08034bb3c77f46d86fbd1921e",
+"index.html": "faf09a656fb72c5d6f2813950426f2a9",
+"/": "faf09a656fb72c5d6f2813950426f2a9",
+"main.dart.js": "8c9534c79da8ad286d290a3055dbc5d1",
 "manifest.json": "57670569ca9fc14d82b9e76abf65bd87",
 "version.json": "8b2eabba2d2de316267c0781e123214d"
 };
