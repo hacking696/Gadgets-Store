@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "70eb43108f703ff238c7be12a31fa4ea",
+  "assets/AssetManifest.json": "3d19e46f129f6e35ea1ca7e30a94d5d1",
 "assets/assets/icons/apple-logo.png": "cf11ebcc0a874e3ad3830431f7b0ab58",
 "assets/assets/images/alexa.png": "7e76b91cc2dcc75faa9d9f3a6641a7d1",
 "assets/assets/images/beats.png": "684cab29e525cda2afb7037f1f0bcacf",
@@ -30,6 +30,8 @@ const RESOURCES = {
 "assets/assets/svg/comments-bold.svg": "11239e74fbc0b82be45f924cc19bc1a8",
 "assets/assets/svg/cross-small-bold.svg": "1d9bbf2c8ff7e5d26a37c06c686d5888",
 "assets/assets/svg/fingerprint-bold.svg": "d7cc4bd1b628234bd3119e979cee4c7d",
+"assets/assets/svg/icons8-instagram.svg": "4eec003ab2d015127fbe67166f4970b0",
+"assets/assets/svg/icons8-whatsapp.svg": "ae14534c54f717c2b3dde29f8c481913",
 "assets/assets/svg/lock-bold.svg": "d9f45a5bf9fa968d92d04247a9bfaec7",
 "assets/assets/svg/mobile-notch.svg": "1f9ca0bc492b0a4b5fe05dedeb7f7840",
 "assets/assets/svg/mode-portrait-bold.svg": "45065a8144390e660109f12c2078b48d",
@@ -50,9 +52,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "938ac989c96c6c11833058a308a1da78",
-"/": "938ac989c96c6c11833058a308a1da78",
-"main.dart.js": "56edfefacb7897955fead05c932a2e7e",
+"index.html": "337327e31c2d9de3e8e5a0facc981c99",
+"/": "337327e31c2d9de3e8e5a0facc981c99",
+"main.dart.js": "a5d920449ae68f5dda0823dba5a10cfb",
 "manifest.json": "57670569ca9fc14d82b9e76abf65bd87",
 "version.json": "8b2eabba2d2de316267c0781e123214d"
 };
