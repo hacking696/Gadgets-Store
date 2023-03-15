@@ -1,0 +1,142 @@
+[
+    {
+        "model": "iPhone 14",
+        "image_url": [
+            "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662703653/Croma%20Assets/Communication/Mobiles/Images/261933_eiuolg.png/mxw_2048,s_webp,f_auto"
+        ],
+        "storage": [
+            {
+                "capacity": 128,
+                "price": 65999
+            },
+            {
+                "capacity": 256,
+                "price": 75999
+            },
+            {
+                "capacity": 512,
+                "price": 95999
+            }
+        ],
+        "colors": [
+            {
+                "name": "Red",
+                "code": "#EF5350"
+            },
+            {
+                "name": "Gold",
+                "code": "#F1C40F"
+            },
+            {
+                "name": "Silver",
+                "code": "#C0C0C0"
+            },
+            {
+                "name": "Space Gray",
+                "code": "#2C3E50"
+            }
+        ],
+        "display": "6.1-inch ProMotion Display",
+        "processor": "A15 Bionic Chip with 64-bit architecture, Neural Engine",
+        "camera": "Triple-camera system with Night mode, Deep Fusion, and Smart HDR 3",
+        "operating_system": "iOS 15",
+        "battery": "3000mAh battery with up to 28 hours of talk time",
+        "description": "The iPhone 14 boasts a stunning ProMotion display, powerful A15 Bionic Chip, and advanced camera system, making it one of the most advanced iPhones to date. With its sleek design, wide range of color options, and impressive battery life, the iPhone 14 is a must-have for any Apple fan."
+    },
+    {
+        "model": "iPhone 14 Pro",
+        "image_url": [
+            "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662702896/Croma%20Assets/Communication/Mobiles/Images/261960_hxm0e3.png/mxw_2048,f_auto"
+        ],
+        "storage": [
+            {
+                "capacity": 128,
+                "price": 122990
+            },
+            {
+                "capacity": 256,
+                "price": 134990
+            },
+            {
+                "capacity": 512,
+                "price": 152999
+            },
+            {
+                "capacity": 1024,
+                "price": 172999
+            }
+        ],
+        "colors": [
+            {
+                "name": "Space Black",
+                "code": "#1C2331"
+            },
+            {
+                "name": "Gold",
+                "code": "#F1C40F"
+            },
+            {
+                "name": "Silver",
+                "code": "#C0C0C0"
+            },
+            {
+                "name": "Deep Purple",
+                "code": "#2C3E50"
+            }
+        ],
+        "display": "6.1-inch ProMotion Display",
+        "processor": "A15 Bionic Chip with 64-bit architecture, Neural Engine",
+        "camera": "Triple-camera system with Night mode, Deep Fusion, and Smart HDR 3",
+        "operating_system": "iOS 15",
+        "battery": "3000mAh battery with up to 28 hours of talk time",
+        "description": "The iPhone 14 boasts a stunning ProMotion display, powerful A15 Bionic Chip, and advanced camera system, making it one of the most advanced iPhones to date. With its sleek design, wide range of color options, and impressive battery life, the iPhone 14 is a must-have for any Apple fan."
+    },
+    {
+        "model": "iPhone 14 Pro Max",
+        "image_url": [
+            "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662655662/Croma%20Assets/Communication/Mobiles/Images/261979_oq7vjv.png/mxw_2048,f_auto"
+        ],
+        "storage": [
+            {
+                "capacity": 128,
+                "price": 132990
+            },
+            {
+                "capacity": 256,
+                "price": 142999
+            },
+            {
+                "capacity": 512,
+                "price": 169900
+            },
+            {
+                "capacity": 1024,
+                "price": 182999
+            }
+        ],
+        "colors": [
+            {
+                "name": "Deep Purple",
+                "code": "#1C2331"
+            },
+            {
+                "name": "Gold",
+                "code": "#F1C40F"
+            },
+            {
+                "name": "Silver",
+                "code": "#C0C0C0"
+            },
+            {
+                "name": "Space Black",
+                "code": "#2C3E50"
+            }
+        ],
+        "display": "6.1-inch ProMotion Display",
+        "processor": "A15 Bionic Chip with 64-bit architecture, Neural Engine",
+        "camera": "Triple-camera system with Night mode, Deep Fusion, and Smart HDR 3",
+        "operating_system": "iOS 15",
+        "battery": "3000mAh battery with up to 28 hours of talk time",
+        "description": "The iPhone 14 boasts a stunning ProMotion display, powerful A15 Bionic Chip, and advanced camera system, making it one of the most advanced iPhones to date. With its sleek design, wide range of color options, and impressive battery life, the iPhone 14 is a must-have for any Apple fan."
+    }
+]
